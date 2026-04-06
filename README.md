@@ -131,4 +131,6 @@ A serial dashboard (`dashboard.py`) receives UART4 telemetry from the STM32 and 
    ```
    Ensure the correct COM port is set in `dashboard.py` to match your ST-Link virtual COM port.
 
+Note: Drivers/ folder excluded. Regenerate via STM32CubeIDE using the provided .ioc file.
+
 *NUS EEE2028 Microcontroller Module — AY25/26 Semester 1*
